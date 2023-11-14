@@ -1,0 +1,8 @@
+name: image-proccessing
+dependencies:
+  - python
+  - matplotlib
+  - numpy
+  - opencv-python
+  - pydicom
+  - scipy
