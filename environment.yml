@@ -6,5 +6,5 @@ dependencies:
   - scipy
   - pip
   - pip:
-    - opencv-python
+    - opencv-python-headless
     - pydicom
