@@ -3,6 +3,8 @@ dependencies:
   - python
   - matplotlib
   - numpy
-  - opencv-python
-  - pydicom
   - scipy
+  - pip
+  - pip:
+    - opencv-python
+    - pydicom
